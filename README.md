@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Software Development
 - 💞️ I’m looking to collaborate on future
 - 📫 How to reach me - @anubhav241
+- ✔ I use a creative approach to problem-solving and am always energetic and eager to learn new skills.
 
 <!---
 anubhav241/anubhav241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
